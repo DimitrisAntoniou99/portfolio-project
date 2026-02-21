@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [react()],
   // Για GitHub Pages, άλλαξε το base στο repo name σου
   // π.χ. base: '/dimitrisantoniou99.github.io/'
-  base: '/',
+  base: '/portfolio-project/',
 })

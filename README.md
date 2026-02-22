@@ -2,7 +2,7 @@
 
 🚀 Modern, animated portfolio website built with React + Vite
 
-
+gi
 ## Quick Start (Local Development)
 
 ### Prerequisites
